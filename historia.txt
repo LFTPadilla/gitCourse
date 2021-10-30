@@ -1,0 +1,7 @@
+Soy Luis Felipe Tejada
+
+Vivo en Colombia y tengo 22 años.
+
+Gracias
+
+Hey probare el git reset HEAD
