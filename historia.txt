@@ -4,4 +4,6 @@ Vivo en Colombia y tengo 22 años.
 
 Gracias
 
+Cambio y arreglo de error en otra rama
+
 Hey probare el git reset HEAD
