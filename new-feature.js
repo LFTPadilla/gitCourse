@@ -1,2 +1,3 @@
 //Different text
-//An error commited
+//An error committed
+//There is no conflict
